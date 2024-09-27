@@ -4,10 +4,5 @@ Turma: CAM304 - Inteligência Computacional.
 
 Grupo:
 
-Albert Paulo Sabara.
-Filipe Rodrigues de Jesus.
-
-Maria Luiza Aguiar Barreto de Gusmão.
-
-Rony Anderson Uliana Vieira.
+Albert Paulo Sabara. <br> Filipe Rodrigues de Jesus. <br> Maria Luiza Aguiar Barreto de Gusmão. <br> Rony Anderson Uliana Vieira.
 
