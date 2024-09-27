@@ -5,7 +5,6 @@ Turma: CAM304 - Inteligência Computacional.
 Grupo:
 
 Albert Paulo Sabara.
-
 Filipe Rodrigues de Jesus.
 
 Maria Luiza Aguiar Barreto de Gusmão.
